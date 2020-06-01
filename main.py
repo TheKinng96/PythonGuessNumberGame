@@ -9,7 +9,6 @@ num1 = sys.argv[1]
 num2 = sys.argv[2]
 
 answer = randint(int(num1), int(num2))
-print(answer)
 
 while True:
     try:
